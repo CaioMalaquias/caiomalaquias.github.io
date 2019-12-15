@@ -1,7 +1,8 @@
 
 ### Publications
--	(article) Why Quantitative Variables Should Not Be Recoded as Categorical - Journal of Applied Mathematics and Physics (2019)
-with _Fernandes, Figueiredo, da Rocha, and Lins_
+-	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-1721594_93794.htm) with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
+  _Journal of Applied Mathematics and Physics, 2019_
+
 
 ### Working Papers
 -	_(forthcoming)_ Electoral Competition and Corruption in Brazil: A Subnational Approach
@@ -14,19 +15,17 @@ _with Davi Moreira, Mauricio Izumi and Paolo Ricci_
 _with Davi Moreira, Diogo Cunha and Lucas Miranda_
 
 ### Research and Teaching
--	Contemporary Political Theory, **Teaching Assistant**
--	Quantitative Methods Course II, **Teaching Assistant**
--	Nuts and Bolts in Scientific Research, **Event Coordinator and Lecturer**
--	Public Policy Master’s Program Discussion Seminar, **Teaching Assistant**
--	Transparency in Public Policies, **Event Coordinator and Lecturer**
--	Transparency and Reproducibility in Empirical Law Research, **Event Coordinator**
--	Data Analysis in Public Policies, **Teaching Assistant**
--	Quantitative Methods Course I, **Teaching Assistant**
--	Reproducibility and Transparency in Social Sciences, **R Programming Lecturer**
--	R Programming **Instructor** to Political Science freshmen
+-	Contemporary Political Theory, _Teaching Assistant_
+-	Quantitative Methods Course II, _Teaching Assistant_
+-	Nuts and Bolts in Scientific Research, _Event Coordinator and Lecturer_
+-	Public Policy Master’s Program Discussion Seminar, _Teaching Assistant_
+-	Transparency in Public Policies, _Event Coordinator and Lecturer_
+-	Transparency and Reproducibility in Empirical Law Research, _Event Coordinator_
+-	Data Analysis in Public Policies, _Teaching Assistant_
+-	Quantitative Methods Course I, _Teaching Assistant_
+-	Reproducibility and Transparency in Social Sciences, _R Programming Lecturer_
+-	R Programming _Instructor_ to Political Science freshmen
 
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
