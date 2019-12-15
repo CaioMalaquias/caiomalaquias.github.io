@@ -1,4 +1,4 @@
-  
+
 
 ### Publications
 -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-1721594_93794.htm) with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
@@ -15,18 +15,14 @@ _with Davi Moreira, Mauricio Izumi and Paolo Ricci_
 -	Undemonization in Front Nacional Speech
 _with Davi Moreira, Diogo Cunha and Lucas Miranda_
 
-### Research and Teaching
+### Teaching and Event Planning
 -	Contemporary Political Theory, _Teaching Assistant_
--	Quantitative Methods Course II, _Teaching Assistant_
--	Nuts and Bolts in Scientific Research, _Event Coordinator and Lecturer_
+-	[Quantitative Methods Course II](https://osf.io/wqv2e/), _Teaching Assistant_
+-	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), _Event Coordinator and Lecturer_
 -	Public Policy Master’s Program Discussion Seminar, _Teaching Assistant_
--	Transparency in Public Policies, _Event Coordinator and Lecturer_
--	Transparency and Reproducibility in Empirical Law Research, _Event Coordinator_
--	Data Analysis in Public Policies, _Teaching Assistant_
--	Quantitative Methods Course I, _Teaching Assistant_
--	Reproducibility and Transparency in Social Sciences, _R Programming Lecturer_
+-	[Transparency in Public Policies](https://osf.io/564nr/), _Event Coordinator and Lecturer_
+-	[Transparency and Reproducibility in Empirical Law Research](https://osf.io/km67g/), _Event Coordinator_
+-	[Data Analysis in Public Policies](https://osf.io/q3cdw/), _Teaching Assistant_
+-	[Quantitative Methods Course I](https://osf.io/wqv2e/), _Teaching Assistant_
+-	[Reproducibility and Transparency in Social Sciences](https://osf.io/sncuf/), _R Programming Lecturer_
 -	R Programming _Instructor_ to Political Science freshmen
-
-
-[Link](url) and ![Image](src)
-```
