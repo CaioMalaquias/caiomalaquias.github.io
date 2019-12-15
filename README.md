@@ -8,13 +8,13 @@
 
 ### Working Papers
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach
-with Dalson Figueiredo and Nicole Janz
+  with Dalson Figueiredo and Nicole Janz
 - Welcoming Problems? Immigrants, Refugees and Urban Crime in EU
-with Wagner Martins
+  with Wagner Martins
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM
-with Davi Moreira, Mauricio Izumi and Paolo Ricci
+  with Davi Moreira, Mauricio Izumi and Paolo Ricci
 -	Undemonization in Front Nacional Speech
-with Davi Moreira, Diogo Cunha and Lucas Miranda
+  with Davi Moreira, Diogo Cunha and Lucas Miranda
 
 ### Teaching and Event Planning
 -	Contemporary Political Theory, Teaching Assistant
