@@ -1,8 +1,6 @@
 title: Caio Malaquias
 logo: /images/bio-photo.jpg
-description: #Maybe that's me.
-show_downloads: true
+description: "Berkeley Initiative for Transparency in the Social Sciences Catalyst"
+#show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
-masthead_title           : "Caio Malaquiasaaa" # overrides the website title displayed in the masthead, use " " for no title
