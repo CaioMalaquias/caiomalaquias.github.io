@@ -6,9 +6,9 @@
 
 
 ### Working Papers
--	_(forthcoming)_ Electoral Competition and Corruption in Brazil: A Subnational Approach
+-	Electoral Competition and Corruption in Brazil: A Subnational Approach
 _with Dalson Figueiredo and Nicole Janz_
-- _(forthcoming)_ Welcoming Problems? Immigrants, Refugees and Urban Crime in EU
+- Welcoming Problems? Immigrants, Refugees and Urban Crime in EU
 _with Wagner Martins_
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM
 _with Davi Moreira, Mauricio Izumi and Paolo Ricci_
