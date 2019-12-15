@@ -1,3 +1,4 @@
+  
 
 ### Publications
 -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-1721594_93794.htm) with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
