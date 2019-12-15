@@ -1,28 +1,29 @@
 
 
 ### Publications
--	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-1721594_93794.htm) with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
-  _Journal of Applied Mathematics and Physics, 2019_
+-	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_
+  with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
+
 
 
 ### Working Papers
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach
-_with Dalson Figueiredo and Nicole Janz_
+with Dalson Figueiredo and Nicole Janz
 - Welcoming Problems? Immigrants, Refugees and Urban Crime in EU
-_with Wagner Martins_
+with Wagner Martins
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM
-_with Davi Moreira, Mauricio Izumi and Paolo Ricci_
+with Davi Moreira, Mauricio Izumi and Paolo Ricci
 -	Undemonization in Front Nacional Speech
-_with Davi Moreira, Diogo Cunha and Lucas Miranda_
+with Davi Moreira, Diogo Cunha and Lucas Miranda
 
 ### Teaching and Event Planning
--	Contemporary Political Theory, _Teaching Assistant_
--	[Quantitative Methods Course II](https://osf.io/wqv2e/), _Teaching Assistant_
--	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), _Event Coordinator and Lecturer_
--	Public Policy Master’s Program Discussion Seminar, _Teaching Assistant_
--	[Transparency in Public Policies](https://osf.io/564nr/), _Event Coordinator and Lecturer_
--	[Transparency and Reproducibility in Empirical Law Research](https://osf.io/km67g/), _Event Coordinator_
--	[Data Analysis in Public Policies](https://osf.io/q3cdw/), _Teaching Assistant_
--	[Quantitative Methods Course I](https://osf.io/wqv2e/), _Teaching Assistant_
--	[Reproducibility and Transparency in Social Sciences](https://osf.io/sncuf/), _R Programming Lecturer_
--	R Programming _Instructor_ to Political Science freshmen
+-	Contemporary Political Theory, Teaching Assistant
+-	[Quantitative Methods Course II](https://osf.io/wqv2e/), Teaching Assistant
+-	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), Event Coordinator and Lecturer
+-	Public Policy Master’s Program Discussion Seminar, Teaching Assistant
+-	[Transparency in Public Policies](https://osf.io/564nr/), Event Coordinator and Lecturer
+-	[Transparency and Reproducibility in Empirical Law Research](https://osf.io/km67g/), Event Coordinator
+-	[Data Analysis in Public Policies](https://osf.io/q3cdw/), Teaching Assistant
+-	[Quantitative Methods Course I](https://osf.io/wqv2e/), Teaching Assistant
+-	[Reproducibility and Transparency in Social Sciences](https://osf.io/sncuf/), R Programming Lecturer
+-	R Programming Instructor to Political Science freshmen
