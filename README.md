@@ -1,6 +1,6 @@
 
 ### Publications
--	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_\ with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
+-	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_<br/> with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
 
 ### Working Papers
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach
