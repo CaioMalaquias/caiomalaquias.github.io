@@ -1,15 +1,16 @@
 
 ### Publications
--	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_<br/> with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
+-	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_<br/>
+  with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
 
 ### Working Papers
--	Electoral Competition and Corruption in Brazil: A Subnational Approach
+-	Electoral Competition and Corruption in Brazil: A Subnational Approach<br/>
   with Dalson Figueiredo and Nicole Janz
-- Welcoming Problems? Immigrants, Refugees and Urban Crime in EU
+- Welcoming Problems? Immigrants, Refugees and Urban Crime in EU<br/>
   with Wagner Martins
--	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM
+-	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM<br/>
   with Davi Moreira, Mauricio Izumi and Paolo Ricci
--	Undemonization in Front Nacional Speech
+-	Undemonization in Front Nacional Speech<br/>
   with Davi Moreira, Diogo Cunha and Lucas Miranda
 
 ### Teaching and Event Planning
