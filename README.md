@@ -1,5 +1,3 @@
-<p style="font-family: times, serif; font-size:11pt; font-style:italic">
-
 ### Publications
 -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_
   with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
@@ -25,5 +23,3 @@
 -	[Quantitative Methods Course I](https://osf.io/wqv2e/), Teaching Assistant
 -	[Reproducibility and Transparency in Social Sciences](https://osf.io/sncuf/), R Programming Lecturer
 -	R Programming Instructor to Political Science freshmen
-
-</p>
