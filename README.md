@@ -4,7 +4,7 @@
   with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
 
 ### Working Papers
-- _(Thesis)_ Affective Polarization Beyond Partisanship
+- _(Honors Thesis)_ Affective Polarization Beyond Partisanship
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   with Dalson Figueiredo and Nicole Janz
 - Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union <br/>
