@@ -2,18 +2,18 @@
 ### Publications
 -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm)<br/>
   Journal of Applied Mathematics and Physics, 2019 <br/>
-  _with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins_ <br/>
+  _with Antonio Fernandes, Dalson Figueiredo, Enivaldo Rocha, & Rodrigo Lins_ <br/>
 
 ### Work in Progress
 - _(Honors Thesis)_ Affective Polarization Beyond Partisanship
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
-  _with Dalson Figueiredo and Nicole Janz_
+  _with Dalson Figueiredo & Nicole Janz_
 - Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union <br/>
   _with Wagner Martins_
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM <br/>
-  _with Davi Moreira, Mauricio Izumi and Paolo Ricci_
+  _with Davi Moreira, Mauricio Izumi & Paolo Ricci_
 -	Undemonization in Front Nacional Speech <br/>
-  _with Davi Moreira, Diogo Cunha and Lucas Miranda_ <br/>
+  _with Davi Moreira, Diogo Cunha & Lucas Miranda_ <br/>
 
 ### Research, Teaching and Event Planning
 - [School of Politics - University of Nottingham](https://www.nottingham.ac.uk/politics/), _Research Assistant_
