@@ -14,11 +14,12 @@
 -	Undemonization in Front Nacional Speech <br/>
   with Davi Moreira, Diogo Cunha and Lucas Miranda <br/>
 
-### Teaching and Event Planning
+### Research, Teaching and Event Planning
+- [School of Politics - University of Nottingham](https://www.nottingham.ac.uk/politics/), Research Assistant
 -	Contemporary Political Theory, Teaching Assistant
--	[Quantitative Methods Course II](https://osf.io/wqv2e/), Teaching Assistant
--	[Data Analysis in Public Policies](https://osf.io/q3cdw/), Teaching Assistant
--	[Quantitative Methods Course I](https://osf.io/wqv2e/), Teaching Assistant
+-	[Quantitative Methods II](https://osf.io/wqv2e/), Teaching Assistant
+-	[Quantitative Methods I](https://osf.io/wqv2e/), Teaching Assistant
+- [Data Analysis in Public Policies](https://osf.io/q3cdw/), Teaching Assistant
 -	Public Policy Master’s Program Discussion Seminar, Teaching Assistant
 -	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), Event Coordinator and Lecturer
 -	[Transparency in Public Policies](https://osf.io/564nr/), Event Coordinator and Lecturer
