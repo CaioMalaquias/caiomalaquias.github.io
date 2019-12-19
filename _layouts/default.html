@@ -22,13 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
 
-        {% if site.github.is_user_page %}
         <td><nobr><p class="view"><a href="{{ site.github.owner_url }}">GitHub</a></p></td>
-        {% endif %}
         <td><nobr><p class="view"><a href="https://twitter.com/politicaio">Twitter</a></p></td>
         <td><nobr><p class="view"><a href="https://br.linkedin.com/in/caiomalaquias">LinkedIn</a></p></td>
 
