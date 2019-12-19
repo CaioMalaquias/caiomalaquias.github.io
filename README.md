@@ -17,11 +17,11 @@
 ### Teaching and Event Planning
 -	Contemporary Political Theory, Teaching Assistant
 -	[Quantitative Methods Course II](https://osf.io/wqv2e/), Teaching Assistant
--	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), Event Coordinator and Lecturer
--	Public Policy Master’s Program Discussion Seminar, Teaching Assistant
--	[Transparency in Public Policies](https://osf.io/564nr/), Event Coordinator and Lecturer
--	[Transparency and Reproducibility in Empirical Law Research](https://osf.io/km67g/), Event Coordinator
 -	[Data Analysis in Public Policies](https://osf.io/q3cdw/), Teaching Assistant
 -	[Quantitative Methods Course I](https://osf.io/wqv2e/), Teaching Assistant
+-	Public Policy Master’s Program Discussion Seminar, Teaching Assistant
+-	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), Event Coordinator and Lecturer
+-	[Transparency in Public Policies](https://osf.io/564nr/), Event Coordinator and Lecturer
+-	[Transparency and Reproducibility in Empirical Law Research](https://osf.io/km67g/), Event Coordinator
 -	[Reproducibility and Transparency in Social Sciences](https://osf.io/sncuf/), R Programming Lecturer
 -	R Programming Instructor to Political Science freshmen
