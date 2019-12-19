@@ -1,7 +1,7 @@
 
 ### Publications
 -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm) _Journal of Applied Mathematics and Physics, 2019_ <br/>
-  with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins
+  with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins <br/>
 
 ### Work in Progress
 - _(Honors Thesis)_ Affective Polarization Beyond Partisanship
@@ -12,7 +12,7 @@
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM <br/>
   with Davi Moreira, Mauricio Izumi and Paolo Ricci
 -	Undemonization in Front Nacional Speech <br/>
-  with Davi Moreira, Diogo Cunha and Lucas Miranda
+  with Davi Moreira, Diogo Cunha and Lucas Miranda <br/>
 
 ### Teaching and Event Planning
 -	Contemporary Political Theory, Teaching Assistant
