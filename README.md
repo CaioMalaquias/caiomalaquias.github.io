@@ -4,20 +4,20 @@
   with Antonio Fernandes, Dalson Figueiredo, Enivaldo da Rocha, and Rodrigo Lins <br/>
 
 ### Work in Progress
-- *_(Honors Thesis)_ Affective Polarization Beyond Partisanship*
--	*Electoral Competition and Corruption in Brazil: A Subnational Approach* <br/>
+- **_(Honors Thesis)_ Affective Polarization Beyond Partisanship**
+-	**Electoral Competition and Corruption in Brazil: A Subnational Approach** <br/>
   with Dalson Figueiredo and Nicole Janz
-- *Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union* <br/>
+- **Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union** <br/>
   with Wagner Martins
--	*Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM* <br/>
+-	**Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM** <br/>
   with Davi Moreira, Mauricio Izumi and Paolo Ricci
--	*Undemonization in Front Nacional Speech* <br/>
+-	**Undemonization in Front Nacional Speech** <br/>
   with Davi Moreira, Diogo Cunha and Lucas Miranda <br/>
 
 ### Research, Teaching and Event Planning
-- *[School of Politics - University of Nottingham](https://www.nottingham.ac.uk/politics/)*, Research Assistant
--	*Contemporary Political Theory*, Teaching Assistant
--	*[Quantitative Methods II](https://osf.io/wqv2e/)*, Teaching Assistant
+- **[School of Politics - University of Nottingham](https://www.nottingham.ac.uk/politics/)**, Research Assistant
+-	**Contemporary Political Theory**, Teaching Assistant
+-	**[Quantitative Methods II](https://osf.io/wqv2e/)**, Teaching Assistant
 -	[Quantitative Methods I](https://osf.io/wqv2e/), Teaching Assistant
 - [Data Analysis in Public Policies](https://osf.io/q3cdw/), Teaching Assistant
 -	Public Policy Master’s Program Discussion Seminar, Teaching Assistant
