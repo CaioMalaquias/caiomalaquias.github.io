@@ -1,6 +1,6 @@
 
 ### Publications
--	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/html/9-172159493794.htm)<br/>
+-	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/journal/paperinformation.aspx?paperid=93794)<br/>
   Journal of Applied Mathematics and Physics, 2019 <br/>
   _with Antonio Fernandes, Dalson Figueiredo, Enivaldo Rocha, & Rodrigo Lins_ <br/>
 
