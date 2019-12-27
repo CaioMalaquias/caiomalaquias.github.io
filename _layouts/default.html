@@ -14,15 +14,17 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{default: site.github.project_tagline }}</p>
-
-        <p class="view"><a href="https://br.linkedin.com/in/caiomalaquias" target="_blank">LinkedIn</a> |
+        <p class="view"><a href="https://www.bitss.org/" target="_blank">BITSS</a> Catalyst
+          <a href="https://cos.io/" target="_blank">COS</a> Ambassador
+          <a href="https://www3.ufpe.br/neppu/internas/pesquisadores.html" target="_blank">Centre for Public Policy</a> Student
+          <br/>
+          <a href="https://br.linkedin.com/in/caiomalaquias" target="_blank">LinkedIn</a> |
         <a href="https://twitter.com/politicaio" target="_blank">Twitter</a> |
         <a href="{{ site.github.owner_url }}" target="_blank">GitHub</a><br/>
       <a href="mailto:caiomalaquiascp@gmail.com" target="_blank">caiomalaquiascp@gmail.com</a></p>
