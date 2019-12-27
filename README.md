@@ -18,8 +18,8 @@
 ### Research, Teaching and Event Planning
 - [School of Politics - University of Nottingham](https://www.nottingham.ac.uk/politics/), _Research Assistant_
 -	Contemporary Political Theory, _Teaching Assistant_
--	[Quantitative Methods II](https://osf.io/vuaec/), _Teaching Assistant_
--	[Quantitative Methods I](https://osf.io/wqv2e/), _Teaching Assistant_
+  - [Quantitative Methods II](https://osf.io/vuaec/), _Teaching Assistant_
+-	[Quantitative Methods I](https://osf.io/xm6b4/), _Teaching Assistant_
 - [Data Analysis in Public Policies](https://osf.io/q3cdw/), _Teaching Assistant_
 -	Public Policy Master’s Program Discussion Seminar, _Teaching Assistant_
 -	[Nuts and Bolts in Scientific Research](https://osf.io/yjt8c/), _Event Coordinator and Lecturer_
