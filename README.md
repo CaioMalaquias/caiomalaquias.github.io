@@ -1,8 +1,11 @@
 
 ### Publications
--	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/journal/paperinformation.aspx?paperid=93794)<br/>
-  Journal of Applied Mathematics and Physics, 2019 <br/>
-  _with Antonio Fernandes, Dalson Figueiredo, Enivaldo Rocha, & Rodrigo Lins_ <br/>
+-	[Digital Activism and Indignation Networks in Brazil: the Pressure Groups](https://journals.sagepub.com/doi/pdf/10.1177/1866802X19840455)<br/>
+  Journal of Politics in Latin America, 2019 <br/>
+  _with Cavalcanti, Bringel, da Costa, de Oliveira, and Zuccolotto_ <br/>
+  -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/journal/paperinformation.aspx?paperid=93794)<br/>
+    Journal of Applied Mathematics and Physics, 2019 <br/>
+    _with Fernandes, Figueiredo, Rocha, & Lins_ <br/>
 
 ### Work in Progress
 - _(Honors Thesis)_ Affective Polarization Beyond Partisanship
