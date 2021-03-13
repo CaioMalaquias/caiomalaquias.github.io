@@ -9,7 +9,7 @@
   _with Fernandes, Figueiredo, Rocha, & Lins_ <br/>
 
 ### Work in Progress
-- _(Honors Thesis)_ Affective Polarization Beyond Partisanship
+- _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter
 -	_(Under Review)_ Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   _with Figueiredo, & Janz_
 - _(Under Review)_ Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union <br/>
