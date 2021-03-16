@@ -9,11 +9,11 @@
   _with Fernandes, Figueiredo, Rocha, & Lins_ <br/>
 - Peer to Peer: Facebook Global Digital Challenge - ANGAPÉ Project
 
-### Work in Progress
+### Current Research
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   _with Figueiredo, & Janz_
-- Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union <br/>
-  _with Martins_
+- Government–Opposition Political Behavior on Twitter: An Analysis of the 2018 Brazilian presidential election on Twitter
+- Radical Right and Fake News on Social Media
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM <br/>
   _with Moreira, Izumi, & Ricci_
 
