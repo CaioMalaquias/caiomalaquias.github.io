@@ -1,5 +1,7 @@
 
 ### Publications
+-  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter
+
 -	[Digital Activism and Indignation Networks in Brazil: the Pressure Groups](https://journals.sagepub.com/doi/pdf/10.1177/1866802X19840455)<br/>
   Journal of Politics in Latin America, 2019 <br/>
   _with Cavalcanti, Bringel, da Costa, de Oliveira, & Zuccolotto_ <br/>
@@ -8,9 +10,8 @@
   Journal of Applied Mathematics and Physics, 2019 <br/>
   _with Fernandes, Figueiredo, Rocha, & Lins_ <br/>
 
-### Completed Research
--  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter
 - Peer to Peer: Facebook Global Digital Challenge - ANGAPÉ Project
+
 ### Work in Progress
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   _with Figueiredo, & Janz_
