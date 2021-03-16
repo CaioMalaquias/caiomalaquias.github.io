@@ -1,6 +1,5 @@
 
 ### Publications
--  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter</br>
 -	[Digital Activism and Indignation Networks in Brazil: the Pressure Groups](https://journals.sagepub.com/doi/pdf/10.1177/1866802X19840455)<br/>
   Journal of Politics in Latin America, 2019 <br/>
   _with Cavalcanti, Bringel, da Costa, de Oliveira, & Zuccolotto_ <br/>
@@ -8,6 +7,9 @@
 -	[Why Quantitative Variables Should Not Be Recoded as Categorical](https://www.scirp.org/journal/paperinformation.aspx?paperid=93794)<br/>
   Journal of Applied Mathematics and Physics, 2019 <br/>
   _with Fernandes, Figueiredo, Rocha, & Lins_ <br/>
+
+### Completed Work
+-  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter</br>
 
 ### Work in Progress
 -	_(Under Review)_ Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
