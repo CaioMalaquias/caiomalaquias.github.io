@@ -8,13 +8,13 @@
   Journal of Applied Mathematics and Physics, 2019 <br/>
   _with Fernandes, Figueiredo, Rocha, & Lins_ <br/>
 
-### Completed Work
--  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter</br>
-
+### Completed Research
+-  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter
+- Peer to Peer: Facebook Global Digital Challenge - ANGAPÉ Project
 ### Work in Progress
--	_(Under Review)_ Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
+-	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   _with Figueiredo, & Janz_
-- _(Under Review)_ Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union <br/>
+- Welcoming Problems? Immigrants, Refugees and Urban Crime in European Union <br/>
   _with Martins_
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM <br/>
   _with Moreira, Izumi, & Ricci_
