@@ -12,7 +12,6 @@
 ### Current Research
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   _with Figueiredo, & Janz_
-- Government–Opposition Political Behavior on Twitter: An Analysis of the 2018 Brazilian Presidential Election on Twitter
 - Radical Right and Fake News on Social Media
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM <br/>
   _with Moreira, Izumi, & Ricci_
