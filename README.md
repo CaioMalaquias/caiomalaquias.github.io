@@ -1,6 +1,6 @@
 
 ### Publications
--  _(Honors Thesis)_ Brazilian Senators' Political Behavior Analysis on Twitter
+-  _(Honors Thesis)_ Analysis of Brazilian Senators' Political Behavior on Twitter
 -	[Digital Activism and Indignation Networks in Brazil: the Pressure Groups](https://journals.sagepub.com/doi/pdf/10.1177/1866802X19840455)<br/>
   Journal of Politics in Latin America, 2019 <br/>
   _with Cavalcanti, Bringel, da Costa, de Oliveira, & Zuccolotto_ <br/>
