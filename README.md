@@ -12,7 +12,7 @@
 ### Current Research
 -	Electoral Competition and Corruption in Brazil: A Subnational Approach <br/>
   _with Figueiredo, & Janz_
-- Radical Right and Fake News on Social Media
+- Radical Right and False News on Social Media
 -	Brazil’s Presidential Speech from 1988 to 2018: Text-as-Data and STM <br/>
   _with Moreira, Izumi, & Ricci_
 
