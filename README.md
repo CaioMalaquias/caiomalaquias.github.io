@@ -2,7 +2,6 @@
 
 - Coalition Dynamics in Multiparty Presidentialism
 - Patterns of Executive-Legislative Relations in Social Media
--
 
 ### Research, Teaching and Event Planning
 
