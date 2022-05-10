@@ -6,7 +6,9 @@
 ### Research, Teaching and Event Planning
 
 - Ronald Coase Institute, *Alumnus*
+- SICSS - University of Rochester, *Alumnus*
 - School of Politics - University of Nottingham, _Research Assistant_
+- Comparative Politics II, *Teaching Assistant (as an MA Student*)
 - Political Institutions II, *Teaching Assistant (as an MA Student)*
 - Democratic Theory IV, *Teaching Assistant (as an MA Student)*
 - Contemporary Political Theory, *Teaching Assistant (as an Undergrad)*
