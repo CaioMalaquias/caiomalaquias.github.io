@@ -1,10 +1,10 @@
 ### CURRENT RESEARCH
 
-* A Microeconomic Model of Coalition Management in Multiparty Presidential Systems under Corruption
+* *You're Doing My Head in!* How Candidates' Speech During Presidential Debates Influences
+  Their Rivals' Emotions, a Natural Language Processing and Facial Recognition Approach
 * Patterns of Executive-Legislative Relations in Social Media
 
 ---
-
 
 ### RESEARCH ASSISTANCE
 
@@ -13,8 +13,6 @@
 * Maternal & Child **Public Policy** Evaluation
 
 ---
-
-
 
 ### TEACHING ASSISTANCE
 
