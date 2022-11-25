@@ -1,7 +1,7 @@
 ### CURRENT RESEARCH
 
 * *You're Doing My Head in!* How Candidates' Speech During Presidential Debates Influences
-  Their Rivals' Emotions, a Natural Language Processing and Facial Recognition Approach
+  Their Rivals' Emotions: a Natural Language Processing and Facial Recognition Approach
 * Patterns of Executive-Legislative Relations in Social Media
 
 ---
