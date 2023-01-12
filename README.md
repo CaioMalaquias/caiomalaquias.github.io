@@ -1,6 +1,6 @@
 ### CURRENT RESEARCH
 
-* *You're Doing My Head In!* a Natural Language Processing and Facial Recognition Approach on Issue Salience and Emotion in Presidential Debates
+* *You're Doing My Head In!* a Natural Language Processing and Facial Recognition Approach on Emotional Arousal and Issue Salience in Presidential Debates
 * Patterns of Executive-Legislative Relations in Social Media
 
 ---
